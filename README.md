@@ -31,4 +31,4 @@ Projeto criado com fins de estudo para praticar lógica de programação, modula
 
 ---
 
-Desenvolvido por Pedro Henrique 🐍
+Desenvolvido por Pedro Henrique 
